@@ -1,0 +1,77 @@
+Git Hub Dummy File.yxmd<?xml version="1.0"?>
+Git Hub Dummy File.yxmd<AlteryxDocument yxmdVer="2024.1" RunE2="T">
+Git Hub Dummy File.yxmd  <Nodes>
+Git Hub Dummy File.yxmd    <Node ToolID="1">
+Git Hub Dummy File.yxmd      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+Git Hub Dummy File.yxmd        <Position x="414" y="174" />
+Git Hub Dummy File.yxmd      </GuiSettings>
+Git Hub Dummy File.yxmd      <Properties>
+Git Hub Dummy File.yxmd        <Configuration>
+Git Hub Dummy File.yxmd          <NumRows value="1" />
+Git Hub Dummy File.yxmd          <Fields>
+Git Hub Dummy File.yxmd            <Field name="test" />
+Git Hub Dummy File.yxmd          </Fields>
+Git Hub Dummy File.yxmd          <Data>
+Git Hub Dummy File.yxmd            <r>
+Git Hub Dummy File.yxmd              <c>test</c>
+Git Hub Dummy File.yxmd            </r>
+Git Hub Dummy File.yxmd          </Data>
+Git Hub Dummy File.yxmd        </Configuration>
+Git Hub Dummy File.yxmd        <Annotation DisplayMode="0">
+Git Hub Dummy File.yxmd          <Name />
+Git Hub Dummy File.yxmd          <DefaultAnnotationText />
+Git Hub Dummy File.yxmd          <Left value="False" />
+Git Hub Dummy File.yxmd        </Annotation>
+Git Hub Dummy File.yxmd      </Properties>
+Git Hub Dummy File.yxmd      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+Git Hub Dummy File.yxmd    </Node>
+Git Hub Dummy File.yxmd  </Nodes>
+Git Hub Dummy File.yxmd  <Connections />
+Git Hub Dummy File.yxmd  <Properties>
+Git Hub Dummy File.yxmd    <Memory default="True" />
+Git Hub Dummy File.yxmd    <GlobalRecordLimit value="0" />
+Git Hub Dummy File.yxmd    <TempFiles default="True" />
+Git Hub Dummy File.yxmd    <Annotation on="True" includeToolName="False" />
+Git Hub Dummy File.yxmd    <ConvErrorLimit value="10" />
+Git Hub Dummy File.yxmd    <ConvErrorLimit_Stop value="False" />
+Git Hub Dummy File.yxmd    <CancelOnError value="False" />
+Git Hub Dummy File.yxmd    <DisableBrowse value="False" />
+Git Hub Dummy File.yxmd    <EnablePerformanceProfiling value="False" />
+Git Hub Dummy File.yxmd    <RunWithE2 value="True" />
+Git Hub Dummy File.yxmd    <PredictiveToolsCodePage value="1252" />
+Git Hub Dummy File.yxmd    <DisableAllOutput value="False" />
+Git Hub Dummy File.yxmd    <ShowAllMacroMessages value="False" />
+Git Hub Dummy File.yxmd    <ShowConnectionStatusIsOn value="True" />
+Git Hub Dummy File.yxmd    <ShowConnectionStatusOnlyWhenRunning value="True" />
+Git Hub Dummy File.yxmd    <ZoomLevel value="0" />
+Git Hub Dummy File.yxmd    <LayoutType>Horizontal</LayoutType>
+Git Hub Dummy File.yxmd    <IsTemplate value="False" />
+Git Hub Dummy File.yxmd    <MetaInfo>
+Git Hub Dummy File.yxmd      <NameIsFileName value="True" />
+Git Hub Dummy File.yxmd      <Name>Git Hub Dummy File</Name>
+Git Hub Dummy File.yxmd      <Description />
+Git Hub Dummy File.yxmd      <RootToolName />
+Git Hub Dummy File.yxmd      <ToolVersion />
+Git Hub Dummy File.yxmd      <ToolInDb value="False" />
+Git Hub Dummy File.yxmd      <CategoryName />
+Git Hub Dummy File.yxmd      <SearchTags />
+Git Hub Dummy File.yxmd      <Author />
+Git Hub Dummy File.yxmd      <Company />
+Git Hub Dummy File.yxmd      <Copyright />
+Git Hub Dummy File.yxmd      <DescriptionLink actual="" displayed="" />
+Git Hub Dummy File.yxmd      <Example>
+Git Hub Dummy File.yxmd        <Description />
+Git Hub Dummy File.yxmd        <File />
+Git Hub Dummy File.yxmd      </Example>
+Git Hub Dummy File.yxmd      <WorkflowId value="d7c2e989-9862-49a6-b987-0f50cf5bab22" />
+Git Hub Dummy File.yxmd      <Telemetry>
+Git Hub Dummy File.yxmd        <PreviousWorkflowId value="470ac8be-1b13-44c1-93c4-e66294a85fd2" />
+Git Hub Dummy File.yxmd        <OriginWorkflowId value="470ac8be-1b13-44c1-93c4-e66294a85fd2" />
+Git Hub Dummy File.yxmd      </Telemetry>
+Git Hub Dummy File.yxmd      <PlatformWorkflowId value="" />
+Git Hub Dummy File.yxmd    </MetaInfo>
+Git Hub Dummy File.yxmd    <Events>
+Git Hub Dummy File.yxmd      <Enabled value="True" />
+Git Hub Dummy File.yxmd    </Events>
+Git Hub Dummy File.yxmd  </Properties>
+Git Hub Dummy File.yxmd</AlteryxDocument>

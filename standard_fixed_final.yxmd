@@ -190,10 +190,10 @@ THEN [Scaling_Final]
                     <SelectField field="Right_Quarter" selected="False" rename="Right_Quarter" input="Right_" />
                     <SelectField field="Right_Year" selected="False" rename="Right_Year" input="Right_" />
                     <SelectField field="Right_CreatedDate" selected="False" input="Right_" />
-                    <SelectField field="Right_Usability…" selected="False" input="Right_" />
-                    <SelectField field="Right_…" selected="False" input="Right_" />
-                    <SelectField field="Right_…2" selected="False" input="Right_" />
-                    <SelectField field="Right_…." selected="False" input="Right_" />
+                    <SelectField field="Right_Usability?" selected="False" input="Right_" />
+                    <SelectField field="Right_?" selected="False" input="Right_" />
+                    <SelectField field="Right_?2" selected="False" input="Right_" />
+                    <SelectField field="Right_?." selected="False" input="Right_" />
                     <SelectField field="*Unknown" selected="True" />
                   </SelectFields>
                 </Configuration>
@@ -248,10 +248,10 @@ THEN [Scaling_Final]
                 <Field name="Scaling_Adj" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
                 <Field name="Scaling_Final" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
                 <Field name="CreatedDate" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
-                <Field name="Usability…" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
-                <Field name="…" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
-                <Field name="…2" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
-                <Field name="…." source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
+                <Field name="Usability?" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
+                <Field name="?" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
+                <Field name="?2" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
+                <Field name="?." source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
               </RecordInfo>
             </MetaInfo>
           </Properties>
@@ -291,10 +291,10 @@ THEN [Scaling_Final]
                     <SelectField field="Right_Commodity" selected="False" rename="Right_Commodity" input="Right_" />
                     <SelectField field="Right_CurveType" selected="False" rename="Right_CurveType" input="Right_" />
                     <SelectField field="Right_CreatedDate" selected="False" input="Right_" />
-                    <SelectField field="Right_Usability…" selected="False" input="Right_" />
-                    <SelectField field="Right_…" selected="False" input="Right_" />
-                    <SelectField field="Right_…2" selected="False" input="Right_" />
-                    <SelectField field="Right_…." selected="False" input="Right_" />
+                    <SelectField field="Right_Usability?" selected="False" input="Right_" />
+                    <SelectField field="Right_?" selected="False" input="Right_" />
+                    <SelectField field="Right_?2" selected="False" input="Right_" />
+                    <SelectField field="Right_?." selected="False" input="Right_" />
                     <SelectField field="Left_Year" selected="True" input="Left_" />
                     <SelectField field="Left_Quarter" selected="True" input="Left_" />
                     <SelectField field="Left_Trade_Quarter" selected="False" input="Left_" />
@@ -345,10 +345,10 @@ THEN [Scaling_Final]
                 <Field name="CurveType" size="255" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="V_String" />
                 <Field name="ScalingApplicable" size="255" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="V_String" />
                 <Field name="CreatedDate" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
-                <Field name="Usability…" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
-                <Field name="…" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
-                <Field name="…2" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
-                <Field name="…." source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
+                <Field name="Usability?" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
+                <Field name="?" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
+                <Field name="?2" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
+                <Field name="?." source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
               </RecordInfo>
             </MetaInfo>
           </Properties>
@@ -501,10 +501,10 @@ Query=`ScalingControl$`</DefaultAnnotationText>
                 <Field name="CurveType" size="255" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="V_String" />
                 <Field name="ScalingApplicable" size="255" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="V_String" />
                 <Field name="CreatedDate" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
-                <Field name="Usability…" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
-                <Field name="…" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
-                <Field name="…2" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
-                <Field name="…." source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
+                <Field name="Usability?" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
+                <Field name="?" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
+                <Field name="?2" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
+                <Field name="?." source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ScalingControl$`" type="Double" />
               </RecordInfo>
             </MetaInfo>
           </Properties>
@@ -542,10 +542,10 @@ Query=`ElectricityScalingFactors$`</DefaultAnnotationText>
                 <Field name="Scaling_Adj" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
                 <Field name="Scaling_Final" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
                 <Field name="CreatedDate" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
-                <Field name="Usability…" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
-                <Field name="…" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
-                <Field name="…2" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
-                <Field name="…." source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
+                <Field name="Usability?" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
+                <Field name="?" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
+                <Field name="?2" source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
+                <Field name="?." source="File: C:\Users\A30013479\OneDrive - AGL Energy\Documents - Pricing Engine Replacement\Development\2 Products\1 Fixed Price\NEW WORKFLOW\Tables in alteryx PE.xlsx|||`ElectricityScalingFactors$`" type="Double" />
               </RecordInfo>
             </MetaInfo>
           </Properties>
