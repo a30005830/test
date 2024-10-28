@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2024.1" RunE2="T">
+  <Nodes>
+    <Node ToolID="40">
+      <GuiSettings>
+        <Position x="210" y="138" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Text Box (175)">A30005830</Value>
+          <Value name="Text Box (177)">4359B9867E443E60CBC3396A1C90624A10E8AAE00F5E07032C1F839EB3CDD4AF7746ACA5B5D962BE78F3FE4F0DC05B5CFB3FD16FEDB4CB8A144B3A7043015D58C5D2A08A81A98C21CE32D61DDDE73D00D5356D1F78C5578506843E87A50BEA340A354E5F106887659D97B7A9266289111CF9F01CA51ED70012DB0C5B948D94B6BEA49DB326C315512405811D68D3D04119507F80651F9F1D77FDD6BDEB43AC3CD8A644E517F9138EAF11E146423788236BA031F6CCCE4250B400BCEC6BD9E5B93D881930E22AA1F609CD44F5E8D26C94C09F1A36AFCA45FEA63F0628FCAAFBEE4E0998EC741C29E4CABFD3CC471095264C1293A0DBBA65BED9FC9B5B8128E3305EB23787569860DCFDC93E9A1F98B0DC7D0634DAAAD83A8A428F1188BA2258A5CB450E7DE3D69A025DF94D46E6F57916F862540B8C7B7A97D3AAD9BA2ADAD3ED3471A9793B98AFC0A1B48167E2BFA8525F416A5828896</Value>
+          <Value name="Text Box (179)">main</Value>
+          <Value name="Check Box (182)">False</Value>
+          <Value name="Text Box (184)">alteryx_test</Value>
+          <Value name="Radio Button (193)">False</Value>
+          <Value name="Text Box (244)">C:\Users\a30005830\AGL Energy\Pricing Engine Replacement - Documents\Development\11 Git Hub\Download\gittest.txt</Value>
+          <Value name="Text Box (245)" />
+          <Value name="Radio Button (192)">False</Value>
+          <Value name="Text Box (198)">test_abc</Value>
+          <Value name="Radio Button (214)">True</Value>
+          <Value name="Text Box (239)">C:\Users\a30005830\AGL Energy\Pricing Engine Replacement - Documents\Development\11 Git Hub\Download\test</Value>
+          <Value name="Text Box (240)">main/abc</Value>
+          <Value name="Text Box (248)">test message</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name>Git Hub Commit Macro (2)</Name>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings Macro="C:\Users\a30005830\AGL Energy\Pricing Engine Replacement - Documents\Development\11 Git Hub\Git Hub Commit Macro.yxmc" />
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="False" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>test flow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="da5b666d-a4aa-4d9a-9e76-eaee831a8dec" />
+      <Telemetry>
+        <PreviousWorkflowId value="c6305bee-4dad-4471-9bc3-92a7c271daf2" />
+        <OriginWorkflowId value="e603708c-0064-4472-9e0f-e1b3d14f25aa" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
